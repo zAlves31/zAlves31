@@ -7,4 +7,3 @@
  <hr>
 
 
-(https://skillicons.dev/icons?i=html,css,cs)](https://skillicons.dev)
