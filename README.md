@@ -17,5 +17,5 @@
 <a href="https://www.twitch.tv/joaojv7513" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/zAlves31/zAlves31/blob/output/github-contribution-grid-snake.svg)
+
 
