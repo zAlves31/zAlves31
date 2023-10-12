@@ -12,13 +12,8 @@
 ## Sobre Mim
 Desde jovem, sempre estive maravilhado com o mundo da tecnologia. A possibilidade de criar soluções inovadoras e melhorar a vida das pessoas através do desenvolvimento de sistemas é o que me motiva diariamente, no tempo livre gosto de jogar vídeo game e ficar com amigos e família.
 
-# proximos passos
+# Proximos passos
 Estou ansioso para continuar minha jornada de aprendizado e desenvolvimento profissional. Pretendo adquirir certificações relevantes e construir projetos inovadores que demonstrem minha criatividade e competência.
-
-#Converse Comigo
-Se você está interessado em colaborar em um projeto, trocar conhecimentos ou discutir ideias inovadoras, estou sempre aberto a novas conexões. Sinta-se à vontade para entrar em contato comigo por meio do GitHub ou me seguir para acompanhar meu progresso.
-
-Obrigado por visitar meu perfil!
 
 ## Ferramentas e Tecnologias 🛠️
 
