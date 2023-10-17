@@ -5,7 +5,6 @@
 </p>
  
  <hr>
-https://steamuserimages-a.akamaihd.net/ugc/279604015237668126/359096884936B108F7D0E3B71A98CD16ADAC6652/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
 
 # Olá, sou João Victor! 👋 
  Seja bem-vindo ao meu GitHub! , estou entusiasmado em compartilhar com você minha jornada como estudante de desenvolvimento de sistemas. Sou um apaixonado por tecnologia e estou comprometido em me tornar um profissional altamente competente nesse campo em constante evolução.
