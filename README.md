@@ -1,6 +1,10 @@
 <p align = "center">
   <a href="https://github.com/zAlves31">
 
+  <div align="center">
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zAlves31&show_icons=true&count_private=true&hide_border=true&ring_color=ea1233&title_color=ffffff&icon_color=ea1233&rank-circle_color=ea1233&text_color=ffffff&bg_color=0d1117" alt="Joao Alves Stats" /> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zAlves31&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 
 </p>
  
@@ -9,10 +13,7 @@
 # Olá, sou João Victor! 👋 
  Seja bem-vindo ao meu GitHub! , estou entusiasmado em compartilhar com você minha jornada como estudante de desenvolvimento de sistemas. Sou um apaixonado por tecnologia e estou comprometido em me tornar um profissional altamente competente nesse campo em constante evolução.
 
-   <div align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zAlves31&show_icons=true&count_private=true&hide_border=true&ring_color=ea1233&title_color=ffffff&icon_color=ea1233&rank-circle_color=ea1233&text_color=ffffff&bg_color=0d1117" alt="Joao Alves Stats" /> 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zAlves31&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
+ 
 
 ## Sobre Mim
 Desde jovem, sempre estive maravilhado com o mundo da tecnologia. A possibilidade de criar soluções inovadoras e melhorar a vida das pessoas através do desenvolvimento de sistemas é o que me motiva diariamente, no tempo livre gosto de jogar vídeo game e ficar com amigos e família.
