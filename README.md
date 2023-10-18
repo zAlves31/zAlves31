@@ -2,7 +2,7 @@
   <a href="https://github.com/zAlves31">
 
   <div align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zAlves31&show_icons=true&count_private=true&hide_border=true&ring_color=ea1233&title_color=ffffff&icon_color=ea1233&rankcircle_color=ea1233&text_color=ffffff&bg_color=0d1117" alt="Joao Alves Stats"/> 
+   
     
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zAlves31&layout=compact&langs_count=7&color=ea1233&title_color=ffffff&icon_color=ea1233&rankcircle_color=ea1233&text_color=ffffff&bg_color=0d1117"/>
   </div>
