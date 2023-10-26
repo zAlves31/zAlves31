@@ -8,13 +8,13 @@
   </div>
 
  
-<img align="right" width="120px" height="140px" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-de-dragon-ball-3.gif">
+<img align="right" width="100px" height="120px" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-de-dragon-ball-3.gif">
 </p>
 
  
  <hr>
 
-# Olá, sou João Victor! 👋 
+# Olá, sou João Victor! 
  Seja bem-vindo ao meu GitHub! , estou entusiasmado em compartilhar com você minha jornada como estudante de desenvolvimento de sistemas. Sou um apaixonado por tecnologia e estou comprometido em me tornar um profissional altamente competente nesse campo em constante evolução.
 
 ## Sobre Mim
