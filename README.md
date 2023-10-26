@@ -7,7 +7,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zAlves31&layout=compact&langs_count=7&color=ea1233&title_color=ffffff&icon_color=ea1233&rankcircle_color=ea1233&text_color=ffffff&bg_color=0d1117"/>
   </div>
 
- <img> width="49%" height="195px" scr="gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-de-dragon-ball-3.gif
+ 
 
 </p>
  
