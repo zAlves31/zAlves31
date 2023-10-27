@@ -8,7 +8,6 @@
   </div>
 
  
-<img align="right" width="100px" height="120px" src="https://gifs.eco.br/wp-content/uploads/2021/10/imagens-e-gifs-de-dragon-ball-3.gif">
 </p>
 
  
