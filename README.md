@@ -13,13 +13,13 @@
  
  <hr>
 
-# Olá, sou João Victor! 
+# Olá, sou João Victor! 👋
  Seja bem-vindo ao meu GitHub! , estou entusiasmado em compartilhar com você minha jornada como estudante de desenvolvimento de sistemas. Sou um apaixonado por tecnologia e estou comprometido em me tornar um profissional altamente competente nesse campo em constante evolução.
 
-## Sobre Mim
+## Sobre Mim 👨🏻‍💻
 Desde jovem, sempre estive maravilhado com o mundo da tecnologia. A possibilidade de criar soluções inovadoras e melhorar a vida das pessoas através do desenvolvimento de sistemas é o que me motiva diariamente, no tempo livre gosto de jogar vídeo game e ficar com amigos e família.
 
-# Proximos passos
+# Proximos passos 🚶🏻‍♂️
 Estou ansioso para continuar minha jornada de aprendizado e desenvolvimento profissional. Pretendo adquirir certificações relevantes e construir projetos inovadores que demonstrem minha criatividade e competência.
 
 ## Ferramentas e Tecnologias 🛠️
