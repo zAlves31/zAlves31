@@ -1,12 +1,3 @@
-<p align = "center">
-  <a href="https://github.com/zAlves31">
-
- 
-</p>
-
- 
- <hr>
-
 # Olá, sou João Victor! 👋
  Seja bem-vindo ao meu GitHub! , estou entusiasmado em compartilhar com você minha jornada como estudante de desenvolvimento de sistemas. Sou um apaixonado por tecnologia e estou comprometido em me tornar um profissional altamente competente nesse campo em constante evolução.
 
